@@ -1,0 +1,15 @@
+{
+  "name": "create-world-ciy-name-forlder",
+  "version": "0.0.1",
+  "description": "Create a temporay folder with the name of the city based on your current location with the date you create it. 임시폴더를 이름을 만든날짜와 함께 현재 위치를 기반으로 도시 이름으로 만든다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "folder"
+  ],
+  "author": "duru",
+  "license": "MIT"
+}
