@@ -3,7 +3,7 @@
 현재 위치에서 월별로 폴더 생성.
 
 ## 설치
-npx i ls
+npx i mkdir-m
 
 
 ## License
