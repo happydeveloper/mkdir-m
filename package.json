@@ -1,6 +1,6 @@
 {
   "name": "mkdir-mon",
-  "version": "0.0.1-beta",
+  "version": "0.0.2-beta",
   "description": "월별로 순서에 맞게 폴더를 만들어주는 프로그램",
   "main": "index.js",
   "scripts": {
