@@ -1,11 +1,14 @@
 {
   "name": "mkdir-mon",
-  "version": "0.0.2-beta",
+  "version": "0.0.4-beta",
   "description": "월별로 순서에 맞게 폴더를 만들어주는 프로그램",
   "main": "index.js",
   "scripts": {
     "build": "coffee -o lib/ -cw src/",
     "test": "./node_modules/.bin/mocha $(find ./test/ -name '*.js') --recursive -w"
+  },
+  "bin": {
+    "mkdir-month": "index.js"
   },
   "keywords": [
     "random",
